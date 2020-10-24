@@ -6,7 +6,7 @@ The exercise was done with the help of a professional so as to simulate the corr
 
 Coursera Practical Machine Learning
 
-PV Vineet
+Harshdeep SIngh
 
 ```{r,warning=FALSE,message=FALSE,include=FALSE,echo=FALSE}
 library(dplyr)
